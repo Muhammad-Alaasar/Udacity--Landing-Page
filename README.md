@@ -1,4 +1,4 @@
-# Landing Page Project by _Muhammad Al-Aasar_
+# Landing Page Project
 > Project for Evaluate my JavaScript knowledge
 
 ## Table of Contents
