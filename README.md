@@ -24,5 +24,4 @@ The starter project has some HTML and CSS styling to display a static version of
 - To get statred, open `index.html` and navigate in it.
 
 
-### Thank's for using my project
-## Best Regards
+### Thank's for using my project, Best Regards
